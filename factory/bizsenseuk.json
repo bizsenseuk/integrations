@@ -1,0 +1,9 @@
+{
+	"name": "bizsenseuk",
+	"location": "ukwest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "57a41e8b-448b-4229-bf0d-aa5b4d2a327a",
+		"tenantId": "09b1e0f1-0123-42c4-abfc-3b998415f641"
+	}
+}
